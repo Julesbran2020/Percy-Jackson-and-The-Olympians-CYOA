@@ -105,7 +105,7 @@
 
   // --- Story Data -----------------------------------------------------------
   const story = {
-    start: 'intro',
+    start: 'Chapter 1:',
     nodes: {
       intro: {
         title: 'Arrival at Camp Half-Blood',
